@@ -1,0 +1,22 @@
+{
+  "name": "searchgithub",
+  "version": "1.0.0",
+  "description": "search the code of Github for Tistory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicallaw/searchGithub.git"
+  },
+  "author": "logicallaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logicallaw/searchGithub/issues"
+  },
+  "homepage": "https://github.com/logicallaw/searchGithub#readme",
+  "dependencies": {
+    "puppeteer": "^21.9.0"
+  }
+}
